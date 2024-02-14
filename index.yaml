@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  maven:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-14T07:23:13.4344598Z"
+    description: A Helm chart for Kubernetes
+    digest: 77ef72b8a83637986001b0e4e4be589929b8cb0fd70dba7b91295711d8b1b198
+    name: maven
+    type: application
+    urls:
+    - https://ramakanth333.github.io/helm/maven-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-14T07:23:13.433598183Z"
